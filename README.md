@@ -41,7 +41,7 @@ $ haconiwa new \
     my-container.haco
 ```
 
-[Whalebrew] is not supported privileged accessm, so you can not not create an lxc container. :confused:
+[Whalebrew] is not supported privileged access, so you can not not create an lxc container. :confused:
 
 [Haconiwa]: https://github.com/haconiwa/haconiwa
 [Whalebrew]: https://github.com/bfirsh/whalebrew
